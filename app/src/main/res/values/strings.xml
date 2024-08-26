@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppCalc V2</string>
+    <string name="editNum1">0</string>
+    <string name="editNum2">0</string>
+    <string name="result">0</string>
+    <string name="btnResult">Calcular</string>
+    <string-array name="operacoes">
+        <item>+</item>
+        <item>-</item>
+        <item>/</item>
+        <item>X</item>
+    </string-array>
+</resources>
